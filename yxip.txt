@@ -20,3 +20,5 @@ nl.ipdb.rr.nu
 hk.ipdb.rr.nu
 jp.ipdb.rr.nu
 us.ipdb.rr.nu
+cf.090227.xyz:2087
+cfip.xxxxxxxx.tk:8443
